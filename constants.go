@@ -18,6 +18,9 @@ const (
 type CoinType uint32
 
 const (
-	BitcoinCoinType CoinType = 0
-	TestnetCoinType CoinType = 1
+	BitcoinCoinType      CoinType = 0
+	TestnetCoinType      CoinType = 1
+	EtherCoinType        CoinType = 60
+	EtherClassicCoinType CoinType = 61
+	EosCoinType          CoinType = 194
 )

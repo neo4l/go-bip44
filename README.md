@@ -17,7 +17,7 @@ You can do so by using [this tool](https://iancoleman.io/bip39/).
 
 ## Installation
 ```bash 
-go get -u github.com/Swipecoin/go-bip44 
+go get -u github.com/neo4l/go-bip44 
 ```
 
 ## Usage
